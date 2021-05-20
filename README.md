@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](.assets/images/screenshot_darkmode.png)
-![](.assets/images/screenshot_light.png)
+![dark theme](.assets/images/screenshot_darkmode.jpg)
+![light theme](.assets/images/screenshot_light.jpg)
 
 ### Links
 
